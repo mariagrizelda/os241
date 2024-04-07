@@ -36,3 +36,8 @@ ZCZC W05 10 L05 QUIZ
 ZCZC W05 45 L14 Assignment #05
 ZCZC W05 15 L01 SCELE related
 ZCZC W05 10 L03 GitHub and git related, including commit, push, pull 
+ZCZC W06 30 L01 SCELE related
+ZCZC W06 120 L14 Assignment #06
+ZCZC W06 150 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 15 L05 QUIZ
+ZCZC W06 15 L03 GitHub and git related, including commit, push, pull
