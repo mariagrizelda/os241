@@ -10,3 +10,4 @@ permalink: LINKS/
 - [Process in Operating System](https://www.javatpoint.com/what-is-the-process-in-operating-system) --- Explains the concept of processes in an operating system, detailing their definition, creation, and management within the system's environment.
 - [Fork](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) --- The article discusses the 'fork' system call in operating systems.
 - [OS Process Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction) --- introduction to synchronization in the operating system.
+- [How to build LFS Chapter 5](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---This video really helped me in completing assignment.
