@@ -11,3 +11,5 @@ permalink: LINKS/
 - [Fork](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) --- The article discusses the 'fork' system call in operating systems.
 - [OS Process Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction) --- introduction to synchronization in the operating system.
 - [How to build LFS Chapter 5](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---This video really helped me in completing assignment.
+- [Chroot](https://www.youtube.com/watch?v=2wSJREC7RV8) --- This video explains root directory constraints and demonstrates using chroot to run Ubuntu with limited access to external resources. It's an informative and instructional watch.
+
